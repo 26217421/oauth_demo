@@ -1,0 +1,4 @@
+rootProject.name = 'oauth_demo'
+include 'security_demo'
+include 'just_auth_demo'
+
